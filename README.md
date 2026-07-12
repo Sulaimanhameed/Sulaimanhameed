@@ -1,21 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=DevOps+Engineer+%7C+Cloud+Infra[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=DevOps+Engineer+%7C+Cloud+Infrastructure;Kubernetes+%7C+CI%2FCD+%7C+Infrastructure+as+Code;Building+Scalable+and+Reliable+Systems)](https://github.com/Sulaimanhameed)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sulaiman%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlig[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sulaiman%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20|%20Cloud%20Architect&descAlignY=62&descSize=16" width="100%"/>
 
 ---
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <pre><code class="language-python">class DevOpsEngineer:
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+class DevOpsEngineer:
     def __init__(self):
         self.name = "Sulaiman S"
         self.location = "Bengaluru, India"
         self.email = "sulaishahulhameed@gmail.com"
-        self.phone = "+91-8220810061"
-        
+
         self.expertise = [
             "AWS Cloud Infrastructure",
             "Kubernetes Orchestration",
@@ -23,33 +22,21 @@
             "Infrastructure as Code",
             "Container Orchestration"
         ]
-        
+
         self.currently_learning = [
-            "Advanced Kubernetes",
-            "Helm Charts",
-            "Service Mesh (Istio)",
-            "GitOps Practices"
+            "LLMOps", "AIOps", "MLOps"
         ]
-        
-        self.education = {
-            "degree": "M.Sc. Hotel Management",
-            "institution": "Muslim Arts College",
-            "year": 2020
-        }
-    
+
     def fun_fact(self):
         return "From hospitality to DevOps! 🚀 Passionate about automation and building reliable systems."
-    
-    def motto(self):
-        return '\"Code once, automate forever\" - My philosophy on DevOps'
 
-engineer = DevOpsEngineer()</code></pre>
-    </td>
-    <td valign="top" width="40%">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="developer at desk illustration"/>
-    </td>
-  </tr>
-</table>
+    def motto(self):
+        return '"Code once, automate forever" - My philosophy on DevOps'
+
+engineer = DevOpsEngineer()
+```
+
+<br clear="both"/>
 
 ---
 
@@ -57,7 +44,6 @@ engineer = DevOpsEngineer()</code></pre>
 
 ### Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### Cloud & Infrastructure
@@ -78,21 +64,23 @@ engineer = DevOpsEngineer()</code></pre>
 ### Monitoring & Tools
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=flat-square&logo=grafana&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+
+### Service Mesh & GitOps
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/Sulaimanhameed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sulaimanhameed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color[...]
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sulaimanhameed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/Sulaimanhameed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulaimanhameed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_co[...]
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulaimanhameed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
 </a>
 
 </div>
@@ -103,7 +91,7 @@ engineer = DevOpsEngineer()</code></pre>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sulaimanhameed&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dat[...]
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sulaimanhameed&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/Sulaimanhameed)
 
 </div>
 
@@ -113,17 +101,7 @@ engineer = DevOpsEngineer()</code></pre>
 
 <div align="center">
   
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sulaimanhameed&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_bord[...]
-
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sulaimanhameed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Sulaimanhameed)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sulaimanhameed&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Sulaimanhameed)
 
 </div>
 
@@ -170,45 +148,27 @@ engineer = DevOpsEngineer()</code></pre>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Stack | Highlights |
-|---------|-------|-----------|
-| **Scalable Java App Deployment on AWS** | Terraform, Packer, Ansible, Python Boto3 | Deployed IaC-based Java application infrastructure • Auto-scaling AMI creation • Automated credential ma[...]
-| **Jenkins Auto-Scaling Infrastructure** | Jenkins, AWS, ALB, EFS, IAM | Highly available CI/CD on Auto Scaling Group • Persistent data with Amazon EFS • Secure IAM role-based access • 99.[...]
-| **Container Orchestration on Kubernetes** | Kubernetes, Docker, Helm | Multi-environment K8s deployment • Self-healing and auto-scaling pods • Load balancing and service discovery • 30% r[...]
-
----
-
 ## 🎖️ Achievements
 
-| 🏅 | Achievement | Details |
-|-----|-----|---------|
-| 🚀 | **Cloud Infrastructure Expert** | Deployed and maintained 15+ production applications on AWS with 99.5% uptime SLA |
-| 🐳 | **Container & Kubernetes Master** | Orchestrated 50+ containerized workloads across multiple Kubernetes clusters |
-| ⚙️ | **Automation Champion** | Authored 30+ Ansible playbooks and Terraform modules, automating 90% of infrastructure provisioning |
-| 📊 | **CI/CD Specialist** | Designed and deployed 25+ Jenkins pipelines reducing deployment time by 40% |
-| 🔐 | **Security Advocate** | Implemented IAM best practices and secrets management across all infrastructure |
-| 💡 | **Quick Learner** | Mastered Kubernetes and DevOps ecosystem from zero in 18 months of professional experience |
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year | Score |
-|--------|-----------|------|-------|
-| **M.Sc. Hotel Management** | Muslim Arts College of Arts and Science | 2020 | - |
+| 🏅 | Achievement                   | Details                                                                                                                                   |
+| -- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| ☁️ | **Cloud Infrastructure**      | Assisted in deploying and maintaining AWS infrastructure for development and production environments.                                     |
+| 🐳 | **Kubernetes & Containers**   | Managed containerized applications and supported Kubernetes cluster operations, deployments, and troubleshooting.                         |
+| ⚙️ | **Infrastructure Automation** | Developed Terraform modules and Ansible playbooks to automate infrastructure provisioning and configuration management.                   |
+| 📊 | **CI/CD Specialist**          | Built and maintained Jenkins and GitHub Actions CI/CD pipelines to automate application build, testing, and deployment workflows.         |
+| 🔐 | **Security & Best Practices** | Implemented IAM roles and policies, managed secrets securely, and followed cloud and Kubernetes security best practices.                  |
+| 📚 | **Continuous Learning**       | Continuously expanded expertise in Kubernetes, AWS, Terraform, Linux, and the DevOps ecosystem while contributing to production projects. |
 
 ---
 
 ## 🧱 Currently Learning
 
 ```
-🧱 Advanced Kubernetes              → Operators, CRDs, Advanced Networking
-🧱 Service Mesh                     → Istio, Linkerd, Traffic Management  
-🧱 GitOps & Infrastructure Automation → ArgoCD, Flux, Policy as Code
-🧱 Cloud Native Security            → RBAC, Network Policies, Pod Security
-🧱 Observability & Monitoring       → ELK Stack, Distributed Tracing, APM
+🧱 LLMOps                           → Prompt Engineering, Model Serving, Evaluation Pipelines
+🧱 AIOps                            → Anomaly Detection, Predictive Alerting, Auto-Remediation
+🧱 MLOps                            → Model Deployment, CI/CD for ML, Feature Stores
+🧱 RAG (Retrieval-Augmented Gen)    → Vector Databases, Embeddings, Semantic Search
+🧱 AI Agents                        → Multi-Agent Orchestration, Tool Use, Agentic Workflows
 ```
 
 ---
@@ -220,7 +180,6 @@ engineer = DevOpsEngineer()</code></pre>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaiman-hammed)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sulaimanhameed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulaishahulhameed@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918220810061)
 
 **Open to DevOps Engineer roles | Available for collaboration | Let's build scalable systems together!** 🚀
 
@@ -233,7 +192,5 @@ engineer = DevOpsEngineer()</code></pre>
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Sulaimanhameed&color=70a5fd&style=flat-square)
-
-**Made with ❤️ by Sulaiman S**
 
 </div>
