@@ -1,15 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=DevOps+Engineer+%7C+Cloud+Infrastructure;Kubernetes+%7C+CI%2FCD+%7C+Infrastructure+as+Code;Building+Scalable+and+Reliable+Systems)](https://github.com/Sulaimanhameed)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=DevOps+Engineer+%7C+Cloud+Infra[...]
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sulaiman%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20|%20Cloud%20Architect&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sulaiman%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlig[...]
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```python
-class DevOpsEngineer:
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <pre><code class="language-python">class DevOpsEngineer:
     def __init__(self):
         self.name = "Sulaiman S"
         self.location = "Bengaluru, India"
@@ -41,10 +41,15 @@ class DevOpsEngineer:
         return "From hospitality to DevOps! 🚀 Passionate about automation and building reliable systems."
     
     def motto(self):
-        return '"Code once, automate forever" - My philosophy on DevOps'
+        return '\"Code once, automate forever\" - My philosophy on DevOps'
 
-engineer = DevOpsEngineer()
-```
+engineer = DevOpsEngineer()</code></pre>
+    </td>
+    <td valign="top" width="40%">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="developer at desk illustration"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -84,10 +89,10 @@ engineer = DevOpsEngineer()
 <div align="center">
 
 <a href="https://github.com/Sulaimanhameed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sulaimanhameed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sulaimanhameed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color[...]
 </a>
 <a href="https://github.com/Sulaimanhameed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulaimanhameed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulaimanhameed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_co[...]
 </a>
 
 </div>
@@ -98,7 +103,7 @@ engineer = DevOpsEngineer()
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sulaimanhameed&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/Sulaimanhameed)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sulaimanhameed&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dat[...]
 
 </div>
 
@@ -108,7 +113,7 @@ engineer = DevOpsEngineer()
 
 <div align="center">
   
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sulaimanhameed&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Sulaimanhameed)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sulaimanhameed&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_bord[...]
 
 </div>
 
@@ -169,9 +174,9 @@ engineer = DevOpsEngineer()
 
 | Project | Stack | Highlights |
 |---------|-------|-----------|
-| **Scalable Java App Deployment on AWS** | Terraform, Packer, Ansible, Python Boto3 | Deployed IaC-based Java application infrastructure • Auto-scaling AMI creation • Automated credential management via AWS Secrets Manager • 100% infrastructure reproducibility |
-| **Jenkins Auto-Scaling Infrastructure** | Jenkins, AWS, ALB, EFS, IAM | Highly available CI/CD on Auto Scaling Group • Persistent data with Amazon EFS • Secure IAM role-based access • 99.9% uptime with static DNS endpoint |
-| **Container Orchestration on Kubernetes** | Kubernetes, Docker, Helm | Multi-environment K8s deployment • Self-healing and auto-scaling pods • Load balancing and service discovery • 30% reduction in resource costs |
+| **Scalable Java App Deployment on AWS** | Terraform, Packer, Ansible, Python Boto3 | Deployed IaC-based Java application infrastructure • Auto-scaling AMI creation • Automated credential ma[...]
+| **Jenkins Auto-Scaling Infrastructure** | Jenkins, AWS, ALB, EFS, IAM | Highly available CI/CD on Auto Scaling Group • Persistent data with Amazon EFS • Secure IAM role-based access • 99.[...]
+| **Container Orchestration on Kubernetes** | Kubernetes, Docker, Helm | Multi-environment K8s deployment • Self-healing and auto-scaling pods • Load balancing and service discovery • 30% r[...]
 
 ---
 
